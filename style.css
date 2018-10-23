@@ -1,0 +1,59 @@
+*{
+          padding: 0;
+          margin: 0;
+          font-family: 'Open Sans', sans-serif
+          box-sizing: border-box;
+      }
+
+#divi {background: url(zzz.jpg) no-repeat center 95%;
+max-width: 100%;
+min-width: 100vh;
+overflow:auto;
+  background-attachment: fixed;
+}
+
+ul{
+  text-align: right;
+  list-style: none;
+border: 0px solid blaCK;
+}
+a{
+  padding: 8px;
+  transition: 500ms;
+  display: inline-block;
+  border-radius: 2px;
+  color: blaCK;
+}
+a:hover {
+  background-color: rgba(129,212,250,1)
+}
+
+li {
+margin: 8px;
+  display: inline-block;
+}
+
+main{text-align: center;
+margin: 190px;
+}
+.inp{
+  padding: 5px 50px;
+  border-radius: 6px;
+}
+.inp2{
+  padding: 5px 60px;
+  border-radius: 7px;
+}
+
+h1, h4{color: orange;
+}
+
+#s{
+  padding: 5px 100px;
+  border-radius: 5px;
+  background-color: #3390ff;
+  color: white;
+}
+
+
+#url{background-color: rgba(255, 99, 71, 0.4);}
